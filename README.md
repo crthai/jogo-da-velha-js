@@ -1,4 +1,4 @@
-# The game is the traditional Tic Tac Toe game.
+# Tic Tac Toe.
 ## Description 
 The game has local co-op support, its also possible to play against AI.
 
