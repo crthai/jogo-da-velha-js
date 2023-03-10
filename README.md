@@ -1,6 +1,6 @@
 # Tic Tac Toe
 ## Description 
-The game has local multiplayer support, its also possible to play against AI.A JS class development. 
+The game has local multiplayer support, its also possible to play against AI. A JS class development. 
 
 ## Game Screen
 
